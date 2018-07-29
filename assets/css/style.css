@@ -124,12 +124,14 @@ h3, h2 {
   min-height: calc(100vh - 70px);
 }
 
+
+
 .main-section {
   float: left;
   width: 100%;
   max-width: 960px;
   padding: 30px;
-  margin: 0 0 40px;
+  margin: 20px 0 40px;
   background: #fff;
   border: 1px solid #ddd;
 }
